@@ -59,7 +59,7 @@ function countClicks3()
 
     } else if (rccount >= 5){
         hsrc.src = 'meanKara.jpeg';
-        dialog.innerHTML= "nuh uhh taksys backsys"
+        dialog.innerHTML= "nuh uhh no taksys backsys"
     } 
     }
 
